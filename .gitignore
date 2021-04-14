@@ -1,6 +1,6 @@
 node_modules/
 .idea
-/public/
+/blog/.vuepress/dist
 /output/
 
 yarn.lock
