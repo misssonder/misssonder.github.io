@@ -21,6 +21,6 @@ module.exports = {
         },
         nav: [
             { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
-        ]
+        ],
     }
 }

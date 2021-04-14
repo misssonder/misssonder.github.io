@@ -32,4 +32,4 @@ jobs:
           # Set a SSH private key from repository secret value for pushing to the remote branch.
           deploy_key: ${{ secrets.GH_PAGES}}
           publish_branch: gh-pages
-          publish_dir: /blog/.vuepress/dist
+          publish_dir: ./blog/.vuepress/dist
