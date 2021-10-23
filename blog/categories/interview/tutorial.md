@@ -1,5 +1,5 @@
 ---
-title: JAVA基础教程c
+title: JAVA基础教程
 
 date: '2021-10-7 23:45:00'
 
